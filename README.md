@@ -38,7 +38,7 @@ Simple-Movie-Recommendation/
 
 1. **Clone the repository**:  
    ```bash
-   git clone https:https://github.com/22AIML021VishalMehta/Simple-Movie-Recommendation-System.git
+   git clone https://github.com/22AIML021VishalMehta/Simple-Movie-Recommendation-System.git
    cd Simple-Movie-Recommendation
    ```
 
