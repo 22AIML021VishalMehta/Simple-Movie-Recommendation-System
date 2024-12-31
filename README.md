@@ -72,7 +72,7 @@ The dataset (`original_movies.csv`) includes the following features:
 - `Rating` (scale 1-5 in floating point value)  
 - `Popularity` (scale 1-100)  
 
-Clusters are dynamically assigned using a pre-trained **KMeans model** (`kmeans_model.pkl`).  
+Clusters are dynamically assigned using a pre-trained **KMeans model** (`movie_clustering_model.pkl`).  
 
 ---
 
