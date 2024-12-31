@@ -77,7 +77,7 @@ Clusters are dynamically assigned using a pre-trained **KMeans model** (`movie_c
 ---
 
 ## 🌐 Live Demo  
-You can deploy this app online using [Streamlit Community Cloud](https://share.streamlit.io/).  
+You can deploy this app online using [Streamlit Community Cloud](https://simple-movie-recommendation-system.streamlit.app/).  
 
 ---
 
